@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "buildwithnico",
+  "description": "Agents from @buildwithnico",
+  "owner": { "name": "Nico Burkart" },
+  "plugins": [
+    {
+      "name": "personal-trainer",
+      "description": "An AI personal trainer that plans your training and your week of meals around your protein goal, and fills your supermarket cart.",
+      "source": "./personal-trainer",
+      "category": "productivity"
+    }
+  ]
+}

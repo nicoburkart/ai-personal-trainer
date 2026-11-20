@@ -1,0 +1,20 @@
+{
+  "name": "personal-trainer",
+  "version": "0.3.0",
+  "description": "An AI personal trainer: sets your calories and protein from your goal, plans your training and your week of meals, builds the shopping list from real nutrition labels, fills your supermarket cart where a connector exists, and adjusts from your check-ins.",
+  "author": {
+    "name": "Nico Burkart",
+    "url": "https://instagram.com/buildwithnico"
+  },
+  "homepage": "https://nicoburkart.com",
+  "license": "MIT",
+  "keywords": [
+    "fitness",
+    "nutrition",
+    "protein",
+    "meal-planning",
+    "groceries",
+    "training"
+  ],
+  "icon": "./.claude-plugin/icon.png"
+}
